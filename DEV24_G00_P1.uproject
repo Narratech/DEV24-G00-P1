@@ -7,6 +7,14 @@
 		{
 			"Name": "FMODStudio",
 			"Enabled": false
+		},
+		{
+			"Name": "StaticMeshEditorModeling",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	]
 }
